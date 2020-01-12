@@ -1,0 +1,7 @@
+C:\Users\Mi\Desktop\prog\C#Labs\lab1Mihalevich\lab1Mihalevich\bin\Debug\lab1Mihalevich.exe.config
+C:\Users\Mi\Desktop\prog\C#Labs\lab1Mihalevich\lab1Mihalevich\bin\Debug\lab1Mihalevich.exe
+C:\Users\Mi\Desktop\prog\C#Labs\lab1Mihalevich\lab1Mihalevich\bin\Debug\lab1Mihalevich.pdb
+C:\Users\Mi\Desktop\prog\C#Labs\lab1Mihalevich\lab1Mihalevich\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\Mi\Desktop\prog\C#Labs\lab1Mihalevich\lab1Mihalevich\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\prog\C#Labs\lab1Mihalevich\lab1Mihalevich\obj\Debug\lab1Mihalevich.exe
+C:\Users\Mi\Desktop\prog\C#Labs\lab1Mihalevich\lab1Mihalevich\obj\Debug\lab1Mihalevich.pdb

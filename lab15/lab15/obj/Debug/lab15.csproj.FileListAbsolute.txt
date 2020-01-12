@@ -1,0 +1,7 @@
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab15\lab15\bin\Debug\lab15.exe.config
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab15\lab15\bin\Debug\lab15.exe
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab15\lab15\bin\Debug\lab15.pdb
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab15\lab15\obj\Debug\lab15.csprojAssemblyReference.cache
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab15\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab15\lab15\obj\Debug\lab15.exe
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab15\lab15\obj\Debug\lab15.pdb

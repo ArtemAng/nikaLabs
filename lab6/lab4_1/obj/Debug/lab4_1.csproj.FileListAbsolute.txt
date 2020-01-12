@@ -1,0 +1,14 @@
+C:\Users\Mi\Desktop\prog\C#Labs\lab4_1\lab4_1\bin\Debug\lab4_1.exe.config
+C:\Users\Mi\Desktop\prog\C#Labs\lab4_1\lab4_1\bin\Debug\lab4_1.exe
+C:\Users\Mi\Desktop\prog\C#Labs\lab4_1\lab4_1\bin\Debug\lab4_1.pdb
+C:\Users\Mi\Desktop\prog\C#Labs\lab4_1\lab4_1\obj\Debug\lab4_1.csprojAssemblyReference.cache
+C:\Users\Mi\Desktop\prog\C#Labs\lab4_1\lab4_1\obj\Debug\lab4_1.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\prog\C#Labs\lab4_1\lab4_1\obj\Debug\lab4_1.exe
+C:\Users\Mi\Desktop\prog\C#Labs\lab4_1\lab4_1\obj\Debug\lab4_1.pdb
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab6\lab4_1\bin\Debug\lab4_1.exe.config
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab6\lab4_1\bin\Debug\lab4_1.exe
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab6\lab4_1\bin\Debug\lab4_1.pdb
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab6\lab4_1\obj\Debug\lab4_1.csprojAssemblyReference.cache
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab6\lab4_1\obj\Debug\lab4_1.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab6\lab4_1\obj\Debug\lab4_1.exe
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab6\lab4_1\obj\Debug\lab4_1.pdb

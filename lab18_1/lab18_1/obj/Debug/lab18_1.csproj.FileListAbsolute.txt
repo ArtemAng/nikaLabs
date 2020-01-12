@@ -1,0 +1,7 @@
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab18_1\lab18_1\bin\Debug\lab18_1.exe.config
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab18_1\lab18_1\bin\Debug\lab18_1.exe
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab18_1\lab18_1\bin\Debug\lab18_1.pdb
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab18_1\lab18_1\obj\Debug\lab18_1.csprojAssemblyReference.cache
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab18_1\lab18_1\obj\Debug\lab18_1.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab18_1\lab18_1\obj\Debug\lab18_1.exe
+C:\Users\Mi\Desktop\prog\C#Labs\PP\lab18_1\lab18_1\obj\Debug\lab18_1.pdb

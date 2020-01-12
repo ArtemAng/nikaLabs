@@ -1,0 +1,7 @@
+C:\Users\Mi\Desktop\prog\C#Labs\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Mi\Desktop\prog\C#Labs\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Mi\Desktop\prog\C#Labs\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Mi\Desktop\prog\C#Labs\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\Mi\Desktop\prog\C#Labs\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Desktop\prog\C#Labs\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Mi\Desktop\prog\C#Labs\lab2\lab2\obj\Debug\lab2.pdb

@@ -1,0 +1,620 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:SportCar id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idvoditelya>1</idvoditelya>
+<BookDidMount href="#ref-3"/>
+<doors>2</doors>
+<price>1</price>
+<speed>2</speed>
+<probeg>2</probeg>
+<bakVolum>1</bakVolum>
+<Car_x002B_BookDidMount href="#ref-4"/>
+<Car_x002B_mark id="ref-5">1</Car_x002B_mark>
+<Car_x002B_doors>2</Car_x002B_doors>
+<Car_x002B_price>1</Car_x002B_price>
+<Car_x002B_speed>2</Car_x002B_speed>
+<Car_x002B_probeg>2</Car_x002B_probeg>
+<Car_x002B_bakVolum>1</Car_x002B_bakVolum>
+</a1:SportCar>
+<a2:DelegateSerializationHolder id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-6"/>
+<target0 href="#ref-7"/>
+<method0 href="#ref-8"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-9"/>
+<target0 href="#ref-10"/>
+<method0 href="#ref-11"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-12">lab12.part2.SportCar+BookDel</type>
+<assembly id="ref-13">lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+<target id="ref-14" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-13"/>
+<targetTypeName id="ref-15">lab12.part2.SportCar+&#60;&#62;c</targetTypeName>
+<methodName id="ref-16">&#60;.ctor&#62;b__5_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:SportCar_x002B__x003C__x003E_c id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:SportCar_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-8" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-16"/>
+<AssemblyName href="#ref-13"/>
+<ClassName href="#ref-15"/>
+<Signature id="ref-17">Void &#60;.ctor&#62;b__5_0(System.String)</Signature>
+<Signature2 id="ref-18">System.Void &#60;.ctor&#62;b__5_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-9" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-19">lab11.Car+BookDel</type>
+<assembly href="#ref-13"/>
+<target id="ref-20" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-13"/>
+<targetTypeName id="ref-21">lab11.Car+&#60;&#62;c</targetTypeName>
+<methodName id="ref-22">&#60;.ctor&#62;b__12_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a4:Car_x002B__x003C__x003E_c id="ref-10" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/lab11/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a4:Car_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-11" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-22"/>
+<AssemblyName href="#ref-13"/>
+<ClassName href="#ref-21"/>
+<Signature id="ref-23">Void &#60;.ctor&#62;b__12_0(System.String)</Signature>
+<Signature2 id="ref-24">System.Void &#60;.ctor&#62;b__12_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:MuscleCar id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<hourses>1</hourses>
+<BookDidMount href="#ref-3"/>
+<doors>2</doors>
+<price>1</price>
+<speed>1</speed>
+<probeg>1</probeg>
+<bakVolum>1</bakVolum>
+<Car_x002B_BookDidMount href="#ref-4"/>
+<Car_x002B_mark id="ref-5">232</Car_x002B_mark>
+<Car_x002B_doors>2</Car_x002B_doors>
+<Car_x002B_price>1</Car_x002B_price>
+<Car_x002B_speed>1</Car_x002B_speed>
+<Car_x002B_probeg>1</Car_x002B_probeg>
+<Car_x002B_bakVolum>1</Car_x002B_bakVolum>
+</a1:MuscleCar>
+<a2:DelegateSerializationHolder id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-6"/>
+<target0 href="#ref-7"/>
+<method0 href="#ref-8"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-9"/>
+<target0 href="#ref-10"/>
+<method0 href="#ref-11"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-12">lab12.part2.MuscleCar+BookDel</type>
+<assembly id="ref-13">lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+<target id="ref-14" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-13"/>
+<targetTypeName id="ref-15">lab12.part2.MuscleCar+&#60;&#62;c</targetTypeName>
+<methodName id="ref-16">&#60;.ctor&#62;b__5_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:MuscleCar_x002B__x003C__x003E_c id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:MuscleCar_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-8" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-16"/>
+<AssemblyName href="#ref-13"/>
+<ClassName href="#ref-15"/>
+<Signature id="ref-17">Void &#60;.ctor&#62;b__5_0(System.String)</Signature>
+<Signature2 id="ref-18">System.Void &#60;.ctor&#62;b__5_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-9" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-19">lab11.Car+BookDel</type>
+<assembly href="#ref-13"/>
+<target id="ref-20" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-13"/>
+<targetTypeName id="ref-21">lab11.Car+&#60;&#62;c</targetTypeName>
+<methodName id="ref-22">&#60;.ctor&#62;b__12_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a4:Car_x002B__x003C__x003E_c id="ref-10" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/lab11/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a4:Car_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-11" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-22"/>
+<AssemblyName href="#ref-13"/>
+<ClassName href="#ref-21"/>
+<Signature id="ref-23">Void &#60;.ctor&#62;b__12_0(System.String)</Signature>
+<Signature2 id="ref-24">System.Void &#60;.ctor&#62;b__12_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Ferarri id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<BookDidMount href="#ref-3"/>
+<VmestimostPeperoni>1</VmestimostPeperoni>
+<doors>1</doors>
+<price>1</price>
+<speed>1</speed>
+<probeg>1</probeg>
+<bakVolum>1</bakVolum>
+<SportCar_x002B_idvoditelya>1</SportCar_x002B_idvoditelya>
+<SportCar_x002B_BookDidMount href="#ref-4"/>
+<SportCar_x002B_doors>1</SportCar_x002B_doors>
+<SportCar_x002B_price>1</SportCar_x002B_price>
+<SportCar_x002B_speed>1</SportCar_x002B_speed>
+<SportCar_x002B_probeg>1</SportCar_x002B_probeg>
+<SportCar_x002B_bakVolum>1</SportCar_x002B_bakVolum>
+<Car_x002B_BookDidMount href="#ref-5"/>
+<Car_x002B_mark id="ref-6">11</Car_x002B_mark>
+<Car_x002B_doors>1</Car_x002B_doors>
+<Car_x002B_price>1</Car_x002B_price>
+<Car_x002B_speed>1</Car_x002B_speed>
+<Car_x002B_probeg>1</Car_x002B_probeg>
+<Car_x002B_bakVolum>1</Car_x002B_bakVolum>
+</a1:Ferarri>
+<a2:DelegateSerializationHolder id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-7"/>
+<target0 href="#ref-8"/>
+<method0 href="#ref-9"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-10"/>
+<target0 href="#ref-11"/>
+<method0 href="#ref-12"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-13"/>
+<target0 href="#ref-14"/>
+<method0 href="#ref-15"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-16">lab12.part2.Ferarri+BookDel</type>
+<assembly id="ref-17">lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+<target id="ref-18" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-17"/>
+<targetTypeName id="ref-19">lab12.part2.Ferarri+&#60;&#62;c</targetTypeName>
+<methodName id="ref-20">&#60;.ctor&#62;b__5_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:Ferarri_x002B__x003C__x003E_c id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Ferarri_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-9" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-20"/>
+<AssemblyName href="#ref-17"/>
+<ClassName href="#ref-19"/>
+<Signature id="ref-21">Void &#60;.ctor&#62;b__5_0(System.String)</Signature>
+<Signature2 id="ref-22">System.Void &#60;.ctor&#62;b__5_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-10" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-23">lab12.part2.SportCar+BookDel</type>
+<assembly href="#ref-17"/>
+<target id="ref-24" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-17"/>
+<targetTypeName id="ref-25">lab12.part2.SportCar+&#60;&#62;c</targetTypeName>
+<methodName id="ref-26">&#60;.ctor&#62;b__5_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:SportCar_x002B__x003C__x003E_c id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:SportCar_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-12" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-26"/>
+<AssemblyName href="#ref-17"/>
+<ClassName href="#ref-25"/>
+<Signature id="ref-27">Void &#60;.ctor&#62;b__5_0(System.String)</Signature>
+<Signature2 id="ref-28">System.Void &#60;.ctor&#62;b__5_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-13" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-29">lab11.Car+BookDel</type>
+<assembly href="#ref-17"/>
+<target id="ref-30" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-17"/>
+<targetTypeName id="ref-31">lab11.Car+&#60;&#62;c</targetTypeName>
+<methodName id="ref-32">&#60;.ctor&#62;b__12_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a4:Car_x002B__x003C__x003E_c id="ref-14" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/lab11/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a4:Car_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-15" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-32"/>
+<AssemblyName href="#ref-17"/>
+<ClassName href="#ref-31"/>
+<Signature id="ref-33">Void &#60;.ctor&#62;b__12_0(System.String)</Signature>
+<Signature2 id="ref-34">System.Void &#60;.ctor&#62;b__12_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Lamborginy id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<class_>s</class_>
+<BookDidMount href="#ref-3"/>
+</a1:Lamborginy>
+<a2:DelegateSerializationHolder id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-4"/>
+<target0 href="#ref-5"/>
+<method0 href="#ref-6"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-7">lab12.part2.Lamborginy+BookDel</type>
+<assembly id="ref-8">lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+<target id="ref-9" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-8"/>
+<targetTypeName id="ref-10">lab12.part2.Lamborginy+&#60;&#62;c</targetTypeName>
+<methodName id="ref-11">&#60;.ctor&#62;b__6_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:Lamborginy_x002B__x003C__x003E_c id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Lamborginy_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-6" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-11"/>
+<AssemblyName href="#ref-8"/>
+<ClassName href="#ref-10"/>
+<Signature id="ref-12">Void &#60;.ctor&#62;b__6_0(System.String)</Signature>
+<Signature2 id="ref-13">System.Void &#60;.ctor&#62;b__6_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Shevrolet id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<isCool>false</isCool>
+<BookDidMount href="#ref-3"/>
+<doors>1</doors>
+<price>1</price>
+<speed>1</speed>
+<probeg>1</probeg>
+<bakVolum>1</bakVolum>
+<MuscleCar_x002B_hourses>1</MuscleCar_x002B_hourses>
+<MuscleCar_x002B_BookDidMount href="#ref-4"/>
+<MuscleCar_x002B_doors>1</MuscleCar_x002B_doors>
+<MuscleCar_x002B_price>1</MuscleCar_x002B_price>
+<MuscleCar_x002B_speed>1</MuscleCar_x002B_speed>
+<MuscleCar_x002B_probeg>1</MuscleCar_x002B_probeg>
+<MuscleCar_x002B_bakVolum>1</MuscleCar_x002B_bakVolum>
+<Car_x002B_BookDidMount href="#ref-5"/>
+<Car_x002B_mark id="ref-6"> asd</Car_x002B_mark>
+<Car_x002B_doors>1</Car_x002B_doors>
+<Car_x002B_price>1</Car_x002B_price>
+<Car_x002B_speed>1</Car_x002B_speed>
+<Car_x002B_probeg>1</Car_x002B_probeg>
+<Car_x002B_bakVolum>1</Car_x002B_bakVolum>
+</a1:Shevrolet>
+<a2:DelegateSerializationHolder id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-7"/>
+<target0 href="#ref-8"/>
+<method0 href="#ref-9"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-10"/>
+<target0 href="#ref-11"/>
+<method0 href="#ref-12"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-13"/>
+<target0 href="#ref-14"/>
+<method0 href="#ref-15"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-16">lab12.part2.Shevrolet+BookDel</type>
+<assembly id="ref-17">lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+<target id="ref-18" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-17"/>
+<targetTypeName id="ref-19">lab12.part2.Shevrolet+&#60;&#62;c</targetTypeName>
+<methodName id="ref-20">&#60;.ctor&#62;b__5_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:Shevrolet_x002B__x003C__x003E_c id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Shevrolet_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-9" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-20"/>
+<AssemblyName href="#ref-17"/>
+<ClassName href="#ref-19"/>
+<Signature id="ref-21">Void &#60;.ctor&#62;b__5_0(System.String)</Signature>
+<Signature2 id="ref-22">System.Void &#60;.ctor&#62;b__5_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-10" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-23">lab12.part2.MuscleCar+BookDel</type>
+<assembly href="#ref-17"/>
+<target id="ref-24" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-17"/>
+<targetTypeName id="ref-25">lab12.part2.MuscleCar+&#60;&#62;c</targetTypeName>
+<methodName id="ref-26">&#60;.ctor&#62;b__5_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:MuscleCar_x002B__x003C__x003E_c id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:MuscleCar_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-12" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-26"/>
+<AssemblyName href="#ref-17"/>
+<ClassName href="#ref-25"/>
+<Signature id="ref-27">Void &#60;.ctor&#62;b__5_0(System.String)</Signature>
+<Signature2 id="ref-28">System.Void &#60;.ctor&#62;b__5_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-13" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-29">lab11.Car+BookDel</type>
+<assembly href="#ref-17"/>
+<target id="ref-30" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-17"/>
+<targetTypeName id="ref-31">lab11.Car+&#60;&#62;c</targetTypeName>
+<methodName id="ref-32">&#60;.ctor&#62;b__12_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a4:Car_x002B__x003C__x003E_c id="ref-14" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/lab11/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a4:Car_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-15" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-32"/>
+<AssemblyName href="#ref-17"/>
+<ClassName href="#ref-31"/>
+<Signature id="ref-33">Void &#60;.ctor&#62;b__12_0(System.String)</Signature>
+<Signature2 id="ref-34">System.Void &#60;.ctor&#62;b__12_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Hummer id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<pafos>1</pafos>
+<BookDidMount href="#ref-3"/>
+<doors>1</doors>
+<price>1</price>
+<speed>1</speed>
+<probeg>1</probeg>
+<bakVolum>1</bakVolum>
+<Vnedorojnik_x002B_collichestvoKoles>1</Vnedorojnik_x002B_collichestvoKoles>
+<Vnedorojnik_x002B_juju id="ref-4">sad</Vnedorojnik_x002B_juju>
+<Vnedorojnik_x002B_BookDidMount href="#ref-5"/>
+<Vnedorojnik_x002B_doors>1</Vnedorojnik_x002B_doors>
+<Vnedorojnik_x002B_price>1</Vnedorojnik_x002B_price>
+<Vnedorojnik_x002B_speed>1</Vnedorojnik_x002B_speed>
+<Vnedorojnik_x002B_probeg>1</Vnedorojnik_x002B_probeg>
+<Vnedorojnik_x002B_bakVolum>1</Vnedorojnik_x002B_bakVolum>
+<Car_x002B_BookDidMount href="#ref-6"/>
+<Car_x002B_mark id="ref-7">111</Car_x002B_mark>
+<Car_x002B_doors>1</Car_x002B_doors>
+<Car_x002B_price>1</Car_x002B_price>
+<Car_x002B_speed>1</Car_x002B_speed>
+<Car_x002B_probeg>1</Car_x002B_probeg>
+<Car_x002B_bakVolum>1</Car_x002B_bakVolum>
+</a1:Hummer>
+<a2:DelegateSerializationHolder id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-8"/>
+<target0 href="#ref-9"/>
+<method0 href="#ref-10"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-11"/>
+<target0 href="#ref-12"/>
+<method0 href="#ref-13"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-14"/>
+<target0 href="#ref-15"/>
+<method0 href="#ref-16"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-8" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-17">lab12.part2.Hummer+BookDel</type>
+<assembly id="ref-18">lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+<target id="ref-19" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-18"/>
+<targetTypeName id="ref-20">lab12.part2.Hummer+&#60;&#62;c</targetTypeName>
+<methodName id="ref-21">&#60;.ctor&#62;b__5_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:Hummer_x002B__x003C__x003E_c id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Hummer_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-10" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-21"/>
+<AssemblyName href="#ref-18"/>
+<ClassName href="#ref-20"/>
+<Signature id="ref-22">Void &#60;.ctor&#62;b__5_0(System.String)</Signature>
+<Signature2 id="ref-23">System.Void &#60;.ctor&#62;b__5_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-11" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-24">lab12.part2.Vnedorojnik+BookDel</type>
+<assembly href="#ref-18"/>
+<target id="ref-25" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-18"/>
+<targetTypeName id="ref-26">lab12.part2.Vnedorojnik+&#60;&#62;c</targetTypeName>
+<methodName id="ref-27">&#60;.ctor&#62;b__6_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:Vnedorojnik_x002B__x003C__x003E_c id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Vnedorojnik_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-13" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-27"/>
+<AssemblyName href="#ref-18"/>
+<ClassName href="#ref-26"/>
+<Signature id="ref-28">Void &#60;.ctor&#62;b__6_0(System.String)</Signature>
+<Signature2 id="ref-29">System.Void &#60;.ctor&#62;b__6_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-14" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-30">lab11.Car+BookDel</type>
+<assembly href="#ref-18"/>
+<target id="ref-31" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-18"/>
+<targetTypeName id="ref-32">lab11.Car+&#60;&#62;c</targetTypeName>
+<methodName id="ref-33">&#60;.ctor&#62;b__12_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a4:Car_x002B__x003C__x003E_c id="ref-15" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/lab11/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a4:Car_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-16" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-33"/>
+<AssemblyName href="#ref-18"/>
+<ClassName href="#ref-32"/>
+<Signature id="ref-34">Void &#60;.ctor&#62;b__12_0(System.String)</Signature>
+<Signature2 id="ref-35">System.Void &#60;.ctor&#62;b__12_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Vnedorojnik id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<collichestvoKoles>1</collichestvoKoles>
+<juju id="ref-3">juju</juju>
+<BookDidMount href="#ref-4"/>
+<doors>1</doors>
+<price>1</price>
+<speed>1</speed>
+<probeg>1</probeg>
+<bakVolum>1</bakVolum>
+<Car_x002B_BookDidMount href="#ref-5"/>
+<Car_x002B_mark id="ref-6">11</Car_x002B_mark>
+<Car_x002B_doors>1</Car_x002B_doors>
+<Car_x002B_price>1</Car_x002B_price>
+<Car_x002B_speed>1</Car_x002B_speed>
+<Car_x002B_probeg>1</Car_x002B_probeg>
+<Car_x002B_bakVolum>1</Car_x002B_bakVolum>
+</a1:Vnedorojnik>
+<a2:DelegateSerializationHolder id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-7"/>
+<target0 href="#ref-8"/>
+<method0 href="#ref-9"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-10"/>
+<target0 href="#ref-11"/>
+<method0 href="#ref-12"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-13">lab12.part2.Vnedorojnik+BookDel</type>
+<assembly id="ref-14">lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+<target id="ref-15" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-14"/>
+<targetTypeName id="ref-16">lab12.part2.Vnedorojnik+&#60;&#62;c</targetTypeName>
+<methodName id="ref-17">&#60;.ctor&#62;b__6_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:Vnedorojnik_x002B__x003C__x003E_c id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Vnedorojnik_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-9" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-17"/>
+<AssemblyName href="#ref-14"/>
+<ClassName href="#ref-16"/>
+<Signature id="ref-18">Void &#60;.ctor&#62;b__6_0(System.String)</Signature>
+<Signature2 id="ref-19">System.Void &#60;.ctor&#62;b__6_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-10" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-20">lab11.Car+BookDel</type>
+<assembly href="#ref-14"/>
+<target id="ref-21" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-14"/>
+<targetTypeName id="ref-22">lab11.Car+&#60;&#62;c</targetTypeName>
+<methodName id="ref-23">&#60;.ctor&#62;b__12_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a4:Car_x002B__x003C__x003E_c id="ref-11" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/lab11/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a4:Car_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-12" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-23"/>
+<AssemblyName href="#ref-14"/>
+<ClassName href="#ref-22"/>
+<Signature id="ref-24">Void &#60;.ctor&#62;b__12_0(System.String)</Signature>
+<Signature2 id="ref-25">System.Void &#60;.ctor&#62;b__12_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+emas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<collichestvoKoles>1</collichestvoKoles>
+<juju id="ref-3">juju</juju>
+<BookDidMount href="#ref-4"/>
+<doors>1</doors>
+<price>1</price>
+<speed>1</speed>
+<probeg>1</probeg>
+<bakVolum>1</bakVolum>
+<Car_x002B_BookDidMount href="#ref-5"/>
+<Car_x002B_mark id="ref-6">11</Car_x002B_mark>
+<Car_x002B_doors>1</Car_x002B_doors>
+<Car_x002B_price>1</Car_x002B_price>
+<Car_x002B_speed>1</Car_x002B_speed>
+<Car_x002B_probeg>1</Car_x002B_probeg>
+<Car_x002B_bakVolum>1</Car_x002B_bakVolum>
+</a1:Vnedorojnik>
+<a2:DelegateSerializationHolder id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-7"/>
+<target0 href="#ref-8"/>
+<method0 href="#ref-9"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<Delegate href="#ref-10"/>
+<target0 href="#ref-11"/>
+<method0 href="#ref-12"/>
+</a2:DelegateSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-13">lab12.part2.Vnedorojnik+BookDel</type>
+<assembly id="ref-14">lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+<target id="ref-15" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-14"/>
+<targetTypeName id="ref-16">lab12.part2.Vnedorojnik+&#60;&#62;c</targetTypeName>
+<methodName id="ref-17">&#60;.ctor&#62;b__6_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a1:Vnedorojnik_x002B__x003C__x003E_c id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab12.part2/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a1:Vnedorojnik_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-9" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-17"/>
+<AssemblyName href="#ref-14"/>
+<ClassName href="#ref-16"/>
+<Signature id="ref-18">Void &#60;.ctor&#62;b__6_0(System.String)</Signature>
+<Signature2 id="ref-19">System.Void &#60;.ctor&#62;b__6_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+<a2:DelegateSerializationHolder_x002B_DelegateEntry id="ref-10" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<type id="ref-20">lab11.Car+BookDel</type>
+<assembly href="#ref-14"/>
+<target id="ref-21" xsi:type="SOAP-ENC:string">target0</target>
+<targetTypeAssembly href="#ref-14"/>
+<targetTypeName id="ref-22">lab11.Car+&#60;&#62;c</targetTypeName>
+<methodName id="ref-23">&#60;.ctor&#62;b__12_0</methodName>
+<delegateEntry xsi:null="1"/>
+</a2:DelegateSerializationHolder_x002B_DelegateEntry>
+<a4:Car_x002B__x003C__x003E_c id="ref-11" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/lab11/lab12%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+</a4:Car_x002B__x003C__x003E_c>
+<a3:MemberInfoSerializationHolder id="ref-12" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Reflection">
+<Name href="#ref-23"/>
+<AssemblyName href="#ref-14"/>
+<ClassName href="#ref-22"/>
+<Signature id="ref-24">Void &#60;.ctor&#62;b__12_0(System.String)</Signature>
+<Signature2 id="ref-25">System.Void &#60;.ctor&#62;b__12_0(System.String)</Signature2>
+<MemberType>8</MemberType>
+<GenericArguments xsi:null="1"/>
+</a3:MemberInfoSerializationHolder>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
